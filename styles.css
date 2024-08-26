@@ -7,7 +7,7 @@
 	border-radius: 5px;
 }
 .hero{
-	
+	display: flex;
 	background-color: #ffffff;
 	width: 600px;
 	display: grid;
